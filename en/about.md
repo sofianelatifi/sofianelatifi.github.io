@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Sofian EL ATIFI - About
 permalink: /en/about/
 ---
 
