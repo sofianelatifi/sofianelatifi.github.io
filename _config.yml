@@ -1,6 +1,6 @@
 title: Sofian EL ATIFI
 url: "https://sofian-borel.github.io/SofianEAwebsite/"
-baseurl: ""
+baseurl: "/SofianEAwebsite"
 
 markdown: kramdown
 
@@ -11,18 +11,18 @@ sass:
     style: compressed
     sass_dir: _sass
 
-favicon: true
+favicon: false
 
 nav:
   - name: "About"
-    link: "/en/about.md"
+    link: "/en/about"
     lang: "en"
   - name: "Research"
-    link: "/en/research.md"
+    link: "/en/research"
     lang: "en"
   - name: "Resources"
-    link: "/en/resources.md"
+    link: "/en/resources"
     lang: "en"
   - name: "Contact"
-    link: "/en/contact.md"
+    link: "/en/contact"
     lang: "en"
