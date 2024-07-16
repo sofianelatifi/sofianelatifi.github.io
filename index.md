@@ -1,8 +1,10 @@
 ---
 layout: default
-description: À propos
+description: About
 lang: "en"
 ---
+
+<img src="sofian.jpg">
 
 <div style="text-align: justify"> 
 
