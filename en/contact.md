@@ -3,7 +3,7 @@ layout: default
 title: Contact
 lang: "en"
 is_contact: true
-permalink: /en/about/
+permalink: /en/contact/
 ---
 
 <div style="text-align: justify">
