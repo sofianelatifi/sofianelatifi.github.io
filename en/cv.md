@@ -6,6 +6,6 @@ permalink: /en/cv/
 
 <div style="text-align: justify"> 
 
-<p> Please, find my CV [here](SofianEAwebsite/en/CV_sofian.pdf) </p>
+<p> Please, find my CV [here](CV_sofian.pdf) </p>
 
 </div>
