@@ -5,7 +5,7 @@ title: Sofian El Atifi
 lang: "en"
 ---
 
-<img src="sofian.jpg">
+<img src="{{ site.baseurl }}/assets/sofian.jpg" alt="Sofian EL ATIFI">
 
 <div style="text-align: justify"> 
 
