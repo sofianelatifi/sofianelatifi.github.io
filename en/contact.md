@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact
+title: Sofian EL ATIFI - Contact
 lang: "en"
 is_contact: true
 permalink: /en/contact/
