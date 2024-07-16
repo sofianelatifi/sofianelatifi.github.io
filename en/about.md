@@ -1,8 +1,7 @@
 ---
 layout: default
-description: About
-title: Sofian El Atifi
-lang: "en"
+title: About
+permalink: /en/about/
 ---
 
 <img src="sofian.jpg">
