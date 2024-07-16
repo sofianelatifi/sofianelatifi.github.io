@@ -1,9 +1,9 @@
 ---
 layout: default
-description: Contact
-title: Sofian EL ATIFI - Contact
+title: Contact
 lang: "en"
 is_contact: true
+permalink: /en/about/
 ---
 
 <div style="text-align: justify">
