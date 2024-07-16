@@ -15,14 +15,14 @@ favicon: true
 
 nav:
   - name: "About"
-    link: "/en/about"
+    link: "/en/about.md"
     lang: "en"
   - name: "Research"
-    link: "/en/research"
+    link: "/en/research.md"
     lang: "en"
   - name: "Resources"
-    link: "/en/resources"
+    link: "/en/resources.md"
     lang: "en"
   - name: "Contact"
-    link: "/en/contact"
+    link: "/en/contact.md"
     lang: "en"
