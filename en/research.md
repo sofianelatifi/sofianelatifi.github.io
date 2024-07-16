@@ -1,7 +1,7 @@
 ---
 layout: default
 description: Research
-title: Benjamin GILBERT - Research
+title: Sofian EL ATIFI - Research
 lang: "en"
 ---
 
@@ -21,15 +21,7 @@ lang: "en"
 
 ### Submitted papers
 
-* Ramaciotti-Morales, P., Gilbert, B. et Vegena, Z. (2023). Foundations of multi-national and multi-dimensional empirical political opinion social media spaces
-
 ### Work in progress
-
-* Gilbert, B. (2024). La fabrique des biographies : conflits d'édition et stratégies politiques sur Wikipédia
-
----
 
 ## Research projects
 
-* Participation in the AI — Political Machines (AIPM) project
-* Participation in the FOCOS (CRI) research team
