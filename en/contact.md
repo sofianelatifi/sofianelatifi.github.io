@@ -10,7 +10,7 @@ is_contact: true
 
 <p> Feel free to contact me about my research or teaching material at the following address: </p>
 
-<p style="text-align:center"><a href = "mailto:benjamin.gilbert@sciencespo.fr">benjamin.gilbert@sciencespo.fr</a></p>
+<p style="text-align:center"><a href = "mailto:sofian.el.atifi@ensae.fr">sofian.el.atifi@ensae.fr</a></p>
 
 </div>
 
@@ -18,14 +18,12 @@ is_contact: true
 
 <div style="text-align: justify">
 
-<p> I am also usually working at the médialab in Sciences Po:</p>
+<p> I am also usually working at the CREST</p>
 
-<p style="text-align:center">Sciences Po - médialab</p>
+<p style="text-align:center">Centre for Research in Economics and Statistics</p>
 
-<p style="text-align:center">27, rue Saint Guillaume</p>
+<p style="text-align:center">5, avenue Henry Le Chatelier</p>
 
-<p style="text-align:center">75337 Paris Cedex 07</p>
-
-<p style="text-align:center"><a href = "tel:+330145495354">+33 (0) 1 45 49 53 54</a></p>
+<p style="text-align:center">91120 Palaiseau</p>
 
 </div>
