@@ -1,8 +1,8 @@
 ---
 layout: default
 description: Contact
-title: Benjamin GILBERT - Contact
-lang: "fr"
+title: Sofian EL ATIFI - Contact
+lang: "en"
 is_contact: true
 ---
 
