@@ -1,6 +1,6 @@
 title: Sofian EL ATIFI
-url: ""
-baseurl: "/SofianEAwebsite"
+url: "https://sofian-borel.github.io"
+baseurl: "/SofianEAwebsite" # If hosted in a subdirectory
 
 markdown: kramdown
 
@@ -8,21 +8,20 @@ kramdown:
   math_engine: katex
 
 sass:
-    style: compressed
-    sass_dir: _sass
+  style: compressed
+  sass_dir: _sass
 
-favicon: false
-
+# Navigation: Ensure these files exist at the specified paths
 nav:
   - name: "About"
-    link: "/en/about"
+    link: "/SofianEAwebsite/en/about/"
     lang: "en"
   - name: "Research"
-    link: "/en/research"
+    link: "/SofianEAwebsite/en/research/"
     lang: "en"
   - name: "Resources"
-    link: "/en/resources"
+    link: "/SofianEAwebsite/en/resources/"
     lang: "en"
   - name: "Contact"
-    link: "/en/contact"
+    link: "/SofianEAwebsite/en/contact/"
     lang: "en"
