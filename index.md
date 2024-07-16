@@ -1,38 +1,16 @@
 ---
 layout: default
 description: À propos
-lang: "fr"
+lang: "en"
 ---
 
 <div style="text-align: justify"> 
 
-<p> Bienvenue sur mon site ! </p>
-
-<p> Je suis Benjamin GILBERT, doctorant en Sociologie à Sciences Po et à l'Université Paris-Cité. </p>
-
-<p> Dans ma thèse, je m'intéresse essentiellement aux discours de justification et de légitimation de la position sociale, et à l'évolution de ces discours au regard des critiques qui sont faites des concept de mérite et plus généralement des mécanismes de maintien et de reproduction des inégalités socio-économiques. </p>
-
-<p> Dans le cadre de ces recherches, je me base sur des méthodes computationnelles de <i>machine</i> et de <i>deep-learning</i>, et sur des données issues de réseaux sociaux, de la presse écrite et d'émissions de radiophonie et de télévision. </p>
-
-<p> Ayant étudié les mathématiques et les sciences computationelles par le passé, je m'intéresse aussi à des questions de recherche afférentes à ces disciplines. </p>
-
-<p> Je suis en particulier intéressé par la théorie des grandes matrices aléatoires, les méthodes de mitigation des biais liées aux facteurs confondants en inférence causale, les fondements mathématiques théoriques de l'apprentissage profond, et les avancées techniques et méthodologiques en termes de traitement du langage naturel (TAL) et de retranscription automatique de la parole. </p>
+<p> I am currently in my third doctoral year at the Center for Research in Economics and Statistics (<a href = "https://crest.science/">CREST</a>). My research investigates the simultaneous contributions of cultural change and shifts in the labour market to the rise in divorce, births outside of marriage, and single motherhood in Western countries. Additionally, I examine the interplay between these cultural and economic factors. Using quantitative methods, I focus on France from the 1970s to the present day. My analysis draws on a diverse array of data sources, including census records, diocesan surveys from the 1950s and 1960s on church attendance, labour force records from BTS-Postes, and immigration data from TeO. </p>
 
 </div>
 
----
 
-## Thèmes de recherche
-
-<div style="text-align: justify">
-
-<p> Dans le cadre de mon doctorat, je m'intéresse aux thèmes de la perception des inégalités et de la justice sociale, aux questions de justification de l'ordonnancement social, aux catégorisations ordinaires de la structure sociale, ainsi qu'à l'histoire des inégalités depuis les années 1950.</p>
-
-<p> Une présentation plus détaillée de mon sujet de thèse ainsi qu'une liste des publications auxquelles j'ai participé ou sur lesquelles je travaille sont <a href = "/fr/recherche">disponibles sur ce site</a>.</p>
-
-</div>
-
----
 
 ## Code et librairies
 
