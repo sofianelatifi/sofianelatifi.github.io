@@ -25,3 +25,6 @@ nav:
   - name: "Contact"
     link: "/SofianEAwebsite/en/contact/"
     lang: "en"
+  - name: "CV"
+    link: "/SofianEAwebsite/en/cv/"
+    lang: "en"
