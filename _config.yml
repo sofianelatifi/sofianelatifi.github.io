@@ -14,7 +14,7 @@ sass:
 # Navigation: Ensure these files exist at the specified paths
 nav:
   - name: "About"
-    link: "/SofianEAwebsite/en/about/"
+    link: "/SofianEAwebsite/about/"
   - name: "Research"
     link: "/SofianEAwebsite/research/"
   - name: "Resources"
