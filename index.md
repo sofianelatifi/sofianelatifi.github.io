@@ -1,6 +1,6 @@
 ---
 layout: default
-description: About
+description: Home
 title: Sofian El Atifi
 ---
 
