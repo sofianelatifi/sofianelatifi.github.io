@@ -2,7 +2,6 @@
 layout: default
 description: About
 title: Sofian El Atifi
-lang: "en"
 ---
 
 <img src="{{ site.baseurl }}/assets/sofian.jpg" alt="Sofian EL ATIFI">
