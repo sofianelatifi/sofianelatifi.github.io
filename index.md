@@ -4,7 +4,7 @@ description: About
 title: Sofian El Atifi
 ---
 
-<img src="{{ site.baseurl }}/assets/sofian.jpg" alt="Sofian EL ATIFI">
+<img src="{{ site.baseurl }}/sofian.jpg" alt="Sofian EL ATIFI">
 
 <div style="text-align: justify"> 
 
