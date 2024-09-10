@@ -14,12 +14,12 @@ sass:
 # Navigation: Ensure these files exist at the specified paths
 nav:
   - name: "About"
-    link: "/SofianEAwebsite/about/"
+    link: "/about/"
   - name: "Research"
-    link: "/SofianEAwebsite/research/"
+    link: "/research/"
   - name: "Resources"
-    link: "/SofianEAwebsite/resources/"
+    link: "/resources/"
   - name: "Contact"
-    link: "/SofianEAwebsite/contact/"
+    link: "/contact/"
   - name: "CV"
-    link: "/SofianEAwebsite/cv/"
+    link: "/cv/"
