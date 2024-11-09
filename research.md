@@ -17,7 +17,7 @@ My research focuses on understanding **family change** since the 1960s in Wester
   - *“The Defensive Function of Traditions: How Catholic Religiosity Moderated the Impact of Manufacturing Job Losses on Divorce and Single Motherhood in France (1975 – 1990).”*
 
 - **Published Work**:
-  - *El Atifi, S., & Le Mer, H.* (2021). “[Visiting an Incarcerated Relative:The Central Role of Women in Maintaining Family Bonds During Incarceration,” published in *Cahiers d’études pénitentiaires et criminologiques]("https://www.justice.gouv.fr/sites/default/files/migrations/portail/art_pix/Cahiers_etudes_penitentiaires_et_criminologiques_n55.pdf") *.
+  - *El Atifi, S., & Le Mer, H.* (2021). “[Visiting an Incarcerated Relative:The Central Role of Women in Maintaining Family Bonds During Incarceration,](https://www.justice.gouv.fr/sites/default/files/2023-05/Cahiers_etudes_penitentiaires_et_criminologiques_n55.pdf)” published in *Cahiers d’études pénitentiaires et criminologiques *.
 
 ### Conference Presentations
 I have shared my research findings at prestigious conferences and seminars, such as:
