@@ -7,7 +7,7 @@ title: Sofian EL ATIFI - Research
 
 ## Research
 
-My research focuses on understanding **family change** since the 1960s in Western societies. I combine quantitative analysis with sociological theory to shed light on the economic and cultural determinants of family change in France. My Ph.D. thesis, *“Cultural and Economic Factors of the Rise in Cohabitation and Separation in France (1975 – 2018),”* investigates how the erosion of social norms against cohabitation and separation, along with rising economic insecurity among the non-college-educated, have influenced cohabitation and separation trends.
+My research focuses on understanding **family change** since the 1960s in Western societies. I combine quantitative analysis with sociological theory to shed light on the **economic** and **cultural** determinants of family change in France. My Ph.D. thesis, *“Cultural and Economic Factors of the Rise in Cohabitation and Separation in France (1975 – 2018),”* investigates how the erosion of social norms against cohabitation and separation, along with rising economic insecurity among the non-college-educated, have influenced cohabitation and separation trends.
 
 During my research master's in sociology, I worked on issues of prisons and crime. I studied the family relationships of inmates and the social stratification of singlehood within the criminal hierarchy among prisoners.
 
