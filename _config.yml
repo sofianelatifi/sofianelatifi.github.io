@@ -1,6 +1,6 @@
 title: Sofian EL ATIFI
-url: "https://sofian-borel.github.io"
-baseurl: "/SofianEAwebsite" # If hosted in a subdirectory
+url: "https://sofianelatifi.github.io"
+baseurl: ""
 
 markdown: kramdown
 
