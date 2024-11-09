@@ -14,12 +14,12 @@ sass:
 # Navigation: Ensure these files exist at the specified paths
 nav:
   - name: "About"
-    link: "/about/"
+    link: "/about"
   - name: "Research"
-    link: "/research/"
+    link: "/research"
   - name: "Resources"
-    link: "/resources/"
+    link: "/resources"
   - name: "Contact"
-    link: "/contact/"
+    link: "/contact"
   - name: "CV"
-    link: "/cv/"
+    link: "/resume.pdf"
