@@ -9,6 +9,8 @@ title: Sofian EL ATIFI - Research
 
 My research focuses on understanding **family change** since the 1960s in Western societies. I combine quantitative analysis with sociological theory to shed light on the economic and cultural determinants of family change in France. My Ph.D. thesis, *“Cultural and Economic Factors of the Rise in Cohabitation and Separation in France (1975 – 2018),”* investigates how the erosion of social norms against cohabitation and separation, along with rising economic insecurity among the non-college-educated, have influenced cohabitation and separation trends.
 
+During my research master's in sociology, I worked on issues of prisons and crime. I studied the family relationships of inmates and the social stratification of singlehood within the criminal hierarchy among prisoners.
+
 ### Publications and Work in Progress
 
 - **Work in Progress**:
@@ -17,7 +19,7 @@ My research focuses on understanding **family change** since the 1960s in Wester
   - *“The Defensive Function of Traditions: How Catholic Religiosity Moderated the Impact of Manufacturing Job Losses on Divorce and Single Motherhood in France (1975 – 1990).”*
 
 - **Published Work**:
-  - *El Atifi, S., & Le Mer, H.* (2021). “[Visiting an Incarcerated Relative : The Central Role of Women in Maintaining Family Bonds During Incarceration,](https://www.justice.gouv.fr/sites/default/files/2023-05/Cahiers_etudes_penitentiaires_et_criminologiques_n55.pdf)” published in *Cahiers d’études pénitentiaires et criminologiques *.
+  - *El Atifi, S., & Le Mer, H.* (2021). “[Visiting an Incarcerated Relative : The Central Role of Women in Maintaining Family Bonds During Incarceration,](https://www.justice.gouv.fr/sites/default/files/2023-05/Cahiers_etudes_penitentiaires_et_criminologiques_n55.pdf)” published in *Cahiers d’études pénitentiaires et criminologiques*.
 
 ### Conference Presentations
 I have shared my research findings at prestigious conferences and seminars, such as:
