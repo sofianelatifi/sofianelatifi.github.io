@@ -4,13 +4,11 @@ description: Teaching
 title: Sofian EL ATIFI - Teaching
 ---
 
-<div style="text-align: justify"> 
-
 ## Teaching
 
 I am passionate about teaching and have contributed to higher education as a lecturer and teaching assistant at **ENSAE** and **Université Paris 1 – Panthéon Sorbonne**. My involvement extends to organizing academic events, such as seminars and reading groups at CREST.
 
-My teaching experience covers courses in sociology and quantitative methods.
+My teaching experience covers courses in sociology and quantitative methods. 
 
 **Lecturer**:
 - **"Introduction to Social Sciences"** – ENSAE, Autumn 2024  
