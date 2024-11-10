@@ -6,7 +6,7 @@ permalink: /about/
 
 <style>
   body {
-    line-height: 1.6;
+    line-height: 2;
     font-size: 18px; /* Or use `em` units for scalability */
     font-family: sans-serif;
   }
