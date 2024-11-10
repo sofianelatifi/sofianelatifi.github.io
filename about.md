@@ -6,7 +6,7 @@ permalink: /about/
 
 <style>
   body {
-    line-height: 2;
+    line-height: 1.6;
     font-size: 18px; /* Or use `em` units for scalability */
     font-family: sans-serif;
   }
@@ -16,9 +16,8 @@ permalink: /about/
     margin: auto; /* Centers the content */
     padding: 20px;
   }
-</style>
 
-.image-container {
+  .image-container {
     text-align: center; /* Centers the image */
     margin-bottom: 20px; /* Optional spacing below the image */
   }
