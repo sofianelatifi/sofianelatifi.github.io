@@ -18,7 +18,9 @@ permalink: /about/
   }
 </style>
 
-<img src="/sofian.jpg" alt="Sofian EL ATIFI" width="400" height="300">
+<div class="image-container">
+  <img src="/sofian.jpg" alt="Sofian EL ATIFI" width="400" height="300">
+</div>
 
 <div class="content" style="text-align: justify;">
   <p>
