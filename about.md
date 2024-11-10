@@ -4,6 +4,24 @@ title: Sofian EL ATIFI - About
 permalink: /about/
 ---
 
+body {
+  line-height: 1.6;
+}
+.content {
+  max-width: 1200px; /* Customize as needed */
+  margin: auto; /* Centers the content */
+  padding: 20px;
+}
+
+body {
+  font-size: 18px; /* Or use `em` units for scalability */
+  font-family: sans-serif
+}
+
+.content {
+  max-width: 60ch; /* 'ch' units relate to the width of the '0' character */
+}
+
 <img src="/sofian.jpg" alt="Sofian EL ATIFI" width="400" height="300">
 
 <div style="text-align: justify"> 
