@@ -18,6 +18,12 @@ permalink: /about/
   }
 </style>
 
+.image-container {
+    text-align: center; /* Centers the image */
+    margin-bottom: 20px; /* Optional spacing below the image */
+  }
+</style>
+
 <div class="image-container">
   <img src="/sofian.jpg" alt="Sofian EL ATIFI" width="400" height="300">
 </div>
