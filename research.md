@@ -18,33 +18,35 @@ title: Sofian EL ATIFI - Research
   }
 </style>
 
+<div class="content" style="text-align: justify;">
+
 ## Research
 
-<div class="content" style="text-align: justify;">
-  <p>
-    My research focuses on understanding **family change** since the 1960s in Western societies. I combine quantitative analysis with sociological theory to shed light on the **economic** and **cultural** determinants of family change in France. My Ph.D. thesis, *“Cultural and Economic Factors of the Rise in Cohabitation and Separation in France (1975 – 2018),”* investigates how the erosion of social norms against cohabitation and separation, along with rising economic insecurity among the non-college-educated, have influenced cohabitation and separation trends.
+My research focuses on understanding **family change** since the 1960s in Western societies. I combine quantitative analysis with sociological theory to shed light on the **economic** and **cultural** determinants of family change in France. My Ph.D. thesis, *“Cultural and Economic Factors of the Rise in Cohabitation and Separation in France (1975 – 2018),”* investigates how the erosion of social norms against cohabitation and separation, along with rising economic insecurity among the non-college-educated, have influenced cohabitation and separation trends.
 
-    During my research master's in sociology, I worked on issues of prisons and crime. I studied the family relationships of inmates and the social stratification of singlehood within the criminal hierarchy among prisoners.
-  </p>
+During my research master's in sociology, I worked on issues of prisons and crime. I studied the family relationships of inmates and the social stratification of singlehood within the criminal hierarchy among prisoners.
 
-  ### Publications and Work in Progress
+### Publications and Work in Progress
 
-  - **Work in Progress**:
-    - *“The Two Dimensions of the Retreat from Marriage: Effects of Catholic Religiosity and Manufacturing Decline on Births Outside Marriage and Divorce in France (1975-2018)”* – in preparation for submission to *Demography*.
-    - *“Breaking Tradition: Generational Change in Cohabitation and Separation Among Muslim-Origin Individuals in France.”*
-    - *“The Defensive Function of Traditions: How Catholic Religiosity Moderated the Impact of Manufacturing Job Losses on Divorce and Single Motherhood in France (1975 – 1990).”*
+- **Work in Progress**:
+  - *“The Two Dimensions of the Retreat from Marriage: Effects of Catholic Religiosity and Manufacturing Decline on Births Outside Marriage and Divorce in France (1975-2018)”* – in preparation for submission to *Demography*.
+  - *“Breaking Tradition: Generational Change in Cohabitation and Separation Among Muslim-Origin Individuals in France.”*
+  - *“The Defensive Function of Traditions: How Catholic Religiosity Moderated the Impact of Manufacturing Job Losses on Divorce and Single Motherhood in France (1975 – 1990).”*
 
-  - **Published Work**:
-    - *El Atifi, S., & Le Mer, H.* (2021). “[Visiting an Incarcerated Relative: The Central Role of Women in Maintaining Family Bonds During Incarceration](https://www.justice.gouv.fr/sites/default/files/2023-05/Cahiers_etudes_penitentiaires_et_criminologiques_n55.pdf),” published in *Cahiers d’études pénitentiaires et criminologiques*.
+- **Published Work**:
+  - *El Atifi, S., & Le Mer, H.* (2021). “[Visiting an Incarcerated Relative: The Central Role of Women in Maintaining Family Bonds During Incarceration](https://www.justice.gouv.fr/sites/default/files/2023-05/Cahiers_etudes_penitentiaires_et_criminologiques_n55.pdf),” published in *Cahiers d’études pénitentiaires et criminologiques*.
 
-  ### Conference Presentations
-  I have shared my research findings at prestigious conferences and seminars, such as:
-  - *ECSR 2024*: Presented “The Two Dimensions of the Retreat from Marriage.”
-  - *PAA 2024* and the *LSE Demography Seminar*: Discussed “The Defensive Function of Traditions.”
-  - *ECPR General Conference on Organised Crime (2022)*: Presented “Why Are Organised Criminals Less Likely to Be Single?”
+### Conference Presentations
 
-  ### Research Experience
-  My hands-on research experience includes:
-  - Assisting on a project about the labour market integration of children of immigrants at **CRIS, Sciences Po Paris**.
-  - Contributing to research on work satisfaction at **CEET, CNAM**.
+I have shared my research findings at prestigious conferences and seminars, such as:
+- *ECSR 2024*: Presented “The Two Dimensions of the Retreat from Marriage.”
+- *PAA 2024* and the *LSE Demography Seminar*: Discussed “The Defensive Function of Traditions.”
+- *ECPR General Conference on Organised Crime (2022)*: Presented “Why Are Organised Criminals Less Likely to Be Single?”
+
+### Research Experience
+
+My hands-on research experience includes:
+- Assisting on a project about the labour market integration of children of immigrants at **CRIS, Sciences Po Paris**.
+- Contributing to research on work satisfaction at **CEET, CNAM**.
+
 </div>
