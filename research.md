@@ -28,7 +28,7 @@ During my research master's in sociology, I worked on issues of prisons and crim
 ## Publications and Work in Progress
 
 • **Work in Progress**:
-  - *“The Two Dimensions of the Retreat from Marriage: Effects of Catholic Religiosity and Manufacturing Decline on Births Outside Marriage and Divorce in France (1975-2018)”* – in preparation for submission to *Demography*.
+  - *“The Two Dimensions of the Retreat from Marriage: Effects of Catholic Religiosity and Manufacturing Decline on Births Outside Marriage and Divorce in France (1975-2018)”* 
   - *“Breaking Tradition: Generational Change in Cohabitation and Separation Among Muslim-Origin Individuals in France.”*
   - *“The Defensive Function of Traditions: How Catholic Religiosity Moderated the Impact of Manufacturing Job Losses on Divorce and Single Motherhood in France (1975 – 1990).”*
 
