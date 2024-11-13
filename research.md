@@ -21,7 +21,7 @@ title: Sofian EL ATIFI - Research
 
 # Research
 
-I combine quantitative analysis with sociological theory to shed light on the **economic** and **cultural** determinants of the rise in **cohabitation and separation** since the 1960s in France. I investigate how the erosion of social norms against cohabitation and separation, along with adverse shifts in the labour market, have influenced cohabitation and separation trends.
+I combine quantitative analysis with sociological theory to shed light on **economic** and **cultural** determinants of the rise in **cohabitation and separation** since the 1960s in France. I investigate how the erosion of social norms against cohabitation and separation, along with adverse shifts in the labour market, have influenced cohabitation and separation trends.
 
 During my research master's in sociology, I worked on issues of prisons and crime. I studied the family relationships of inmates and the social stratification of singlehood within the criminal hierarchy among prisoners.
 
