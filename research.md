@@ -39,11 +39,11 @@ During my research master's in sociology, I worked on issues of prisons and crim
 
 I have shared my research findings at prestigious conferences and seminars, such as:
 
-• *INED* – Seminar series of the research group on International Migration and Minorities, November 2024.
-• *ECSR*, September 2024.
-• *PAA*, April 2024.
-• *LSE* Demography Seminar, April 2024.
-• *ECPR* General conference on Organised Crime, July 2022.
+• **INED**, Seminar series of the research group on International Migration and Minorities, November 2024.  
+• **ECSR**, September 2024.  
+• **PAA**, April 2024.  
+• **LSE**, Demography Seminar, April 2024.  
+• **ECPR**, General conference on Organised Crime, July 2022.  
 
 
 ## Research Experience
