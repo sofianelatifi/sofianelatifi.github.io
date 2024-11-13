@@ -21,7 +21,7 @@ title: Sofian EL ATIFI - Research
 
 # Research
 
-My research focuses on understanding **family change** since the 1960s in Western societies. I combine quantitative analysis with sociological theory to shed light on the **economic** and **cultural** determinants of family change in France. My Ph.D. thesis, *“Cultural and Economic Factors of the Rise in Cohabitation and Separation in France (1975 – 2018),”* investigates how the erosion of social norms against cohabitation and separation, along with rising economic insecurity among the non-college-educated, have influenced cohabitation and separation trends.
+I combine quantitative analysis with sociological theory to shed light on the **economic** and **cultural** determinants of the rise in **cohabitation and separation** since the 1960s in France. I investigate how the erosion of social norms against cohabitation and separation, along with adverse shifts in the labour market, have influenced cohabitation and separation trends.
 
 During my research master's in sociology, I worked on issues of prisons and crime. I studied the family relationships of inmates and the social stratification of singlehood within the criminal hierarchy among prisoners.
 
@@ -38,12 +38,16 @@ During my research master's in sociology, I worked on issues of prisons and crim
 ## Conference Presentations
 
 I have shared my research findings at prestigious conferences and seminars, such as:
-- *ECSR 2024*: Presented “The Two Dimensions of the Retreat from Marriage.”
-- *PAA 2024* and the *LSE Demography Seminar*: Discussed “The Defensive Function of Traditions.”
-- *ECPR General Conference on Organised Crime (2022)*: Presented “Why Are Organised Criminals Less Likely to Be Single?”
+
+• *INED* – Seminar series of the research group on International Migration and Minorities, November 2024
+• *ECSR*, September 2024
+• *PAA*, April 2024
+• *LSE* Demography Seminar, April 2024
+• *ECPR* General conference on Organised Crime, July 2022
+
 
 ## Research Experience
 
-My hands-on research experience includes:
+My hands-on research experience before the Ph.D. includes:
 - Assisting on a project about the labour market integration of children of immigrants at **CRIS, Sciences Po Paris**.
 - Contributing to research on work satisfaction at **CEET, CNAM**.
