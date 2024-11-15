@@ -37,7 +37,7 @@ During my research master's in sociology, I worked on issues of prisons and crim
 
 ## Conference Presentations
 
-I have shared my research findings at prestigious conferences and seminars, such as:
+I have shared my research findings at conferences and seminars, such as:
 
 • **INED**, Seminar series of the research group on International Migration and Minorities, November 2024.  
 • **ECSR**, September 2024.  
