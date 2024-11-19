@@ -30,7 +30,7 @@ title: Sofian El Atifi
 
 <div class="content" style="text-align: justify;">
   <p>
-    I am currently in my fourth doctoral year at the Center for Research in Economics and Statistics (<a href="https://crest.science/">CREST</a>). My research investigates the simultaneous contributions of cultural change and shifts in the labour market to the rise in divorce, births outside of marriage, and single motherhood in Western countries. Additionally, I examine the interplay between these cultural and economic factors. Using quantitative methods, I focus on France from the 1970s to the present day. My analysis draws on a diverse array of data sources, including census records, diocesan surveys from the 1950s and 1960s on church attendance, labour force records from BTS-Postes, and immigration data from TeO.
+I am a fourth-year doctoral researcher at the Center for Research in Economics and Statistics (CREST), where I explore how cultural changes and labour market shifts have influenced the rise of divorce, births outside marriage, and single motherhood in Western countries. Utilizing quantitative methods, I focus specifically on France from the 1970s to the present. My analysis draws from an extensive range of data, including census records, data on church attendance from the 1950s and 1960s, BTS-Postes labour force records, and TeO immigration data.
   </p>
 </div>
 
