@@ -27,10 +27,13 @@ During my research master's in sociology, I worked on issues of prisons and crim
 
 ## Publications and Work in Progress
 
-• **Work in Progress**:
+• **Working Paper**:
   - *“The Two Dimensions of the Retreat from Marriage: Effects of Manufacturing Decline and Catholic Religiosity on Nonmarital Births and Divorce in France (1975-2018)”* 
-  - *“Breaking Tradition: Generational Change in Cohabitation and Separation Among Muslim-Origin Individuals in France.”*
 
+• **Work in Progress**:
+  - *"Integration in a Changing Society: Trends in Cohabitation and Separation Among Muslim-Origin Immigrants, Their Children, and the French-Origin Majority (Cohorts 1948–1996)"*
+  - *Gendered Effects of Manufacturing Decline on Job Prospects: Labor Force Participation and Wage Trends in France (1994–2021)*
+    
 • **Published Work**:
   - *El Atifi, S., & Le Mer, H.* (2021). “[Visiter un proche détenu: La place centrale des femmes dans le maintien des liens familiaux en détention](https://www.justice.gouv.fr/sites/default/files/2023-05/Cahiers_etudes_penitentiaires_et_criminologiques_n55.pdf),” published in *Cahiers d’études pénitentiaires et criminologiques* 
 
