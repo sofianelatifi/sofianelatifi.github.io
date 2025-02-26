@@ -21,35 +21,36 @@ title: Sofian EL ATIFI - Research
 
 # Research
 
-I combine quantitative analysis with sociological theory to shed light on **economic** and **cultural** determinants of the rise in **cohabitation and separation** since the 1970s in France. I investigate how the erosion of social norms opposing cohabitation and separation, along with adverse shifts in the labour market, have influenced cohabitation and separation trends.
+I combine quantitative methods with sociological theory to shed light on **economic** and **cultural** drivers of the rise in **union dissolution** since the 1970s in France. 
 
-During my research master's in sociology, I worked on issues of prisons and crime. I studied the family relationships of inmates and the social stratification of singlehood within the criminal hierarchy among prisoners.
+## Papers and Work in Progress
 
-## Publications and Work in Progress
+• **Submitted Paper**:
+  - *“The Two Dimensions of the Retreat from Marriage: Effects of Manufacturing Decline and Catholic Religiosity on Nonmarital Births and Divorce in France (1975 – 2018)”, under review* 
 
-• **Working Paper**:
-  - *“The Two Dimensions of the Retreat from Marriage: Effects of Manufacturing Decline and Catholic Religiosity on Nonmarital Births and Divorce in France (1975-2018)”* 
+• **Work Paper**:
+  - *“From Tradition to Individualization: Separation Risks Across Birth Cohorts among Immigrants and Children of Immigrants from Muslim and Southern European Countries, and the French Majority Population”, in preparation for submission*
 
 • **Work in Progress**:
-  - *"Integration in a Changing Society: Trends in Cohabitation and Separation Among Muslim-Origin Immigrants, Their Children, and the French-Origin Majority (Cohorts 1948–1996)"*
-  - *Gendered Effects of Manufacturing Decline on Job Prospects: Labor Force Participation and Wage Trends in France (1994–2021)*
+  - *“A Stalled Gender Revolution—Except in the Working Class? Gender Gaps in Labor Force Participation, Earnings, and Annual Working Time Between Classes in France (1995–2021)”*
     
-• **Published Work**:
+• **Publication (from master's research)**:
   - *El Atifi, S., & Le Mer, H.* (2021). “[Visiter un proche détenu: La place centrale des femmes dans le maintien des liens familiaux en détention](https://www.justice.gouv.fr/sites/default/files/2023-05/Cahiers_etudes_penitentiaires_et_criminologiques_n55.pdf),” published in *Cahiers d’études pénitentiaires et criminologiques* 
 
-## Conference Presentations
+## Presentations
 
-I have shared my research findings at conferences and seminars, such as:
-• **ALP-POP 2025**, January 2025.  
-• **INED**, Seminar series of the research group on International Migration and Minorities, November 2024.  
-• **ECSR**, September 2024.  
-• **PAA**, April 2024.  
-• **LSE**, Demography Seminar, April 2024.  
-• **ECPR**, General conference on Organised Crime, July 2022.  
+I have shared my research findings at conferences and seminars, such as:  
+
+“The Two Dimensions of the Retreat from Marriage”  
+•	ECSR, September 2024, Barcelona  
+•	PAA, April 2024, Columbus (US)  
+•	LSE, March 2024 (invited talk), London  
+•	Oxford Sociology Department (Family Working Group), February 2024  
 
 
-## Research Experience
+“From Tradition to Individualization”  
+•	PAA, April 2025 (forthcoming), Washinton  
+•	EUI Seminar, March 2025 (forthcoming), Florence  
+•	ALP-POP conference, January 2025, La Thuile  
+•	INED Seminar, November 2024, Paris  
 
-My hands-on research experience before the Ph.D. includes:
-- Assisting on a project about the labour market integration of children of immigrants at **CRIS, Sciences Po Paris**.
-- Contributing to research on work satisfaction at **CEET, CNAM**.
