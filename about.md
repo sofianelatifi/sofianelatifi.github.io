@@ -1,34 +1,47 @@
 ---
 layout: default
-title: Sofian EL ATIFI - About
-permalink: /about/
+description: Home
+title: Sofian El Atifi
 ---
 
 <style>
   body {
     line-height: 1.6;
-    font-size: 18px; /* Or use `em` units for scalability */
+    font-size: 18px;
     font-family: sans-serif;
   }
   
   .content {
-    max-width: 60ch; /* 'ch' units relate to the width of the '0' character */
-    margin: auto; /* Centers the content */
+    max-width: 60ch;
+    margin: auto;
     padding: 20px;
+    text-align: justify;
   }
 
   .image-container {
-    text-align: center; /* Centers the image */
-    margin-bottom: 20px; /* Optional spacing below the image */
+    text-align: center;
+    margin-bottom: 20px;
   }
 </style>
 
 <div class="image-container">
-  <img src="/sofian.jpg" alt="Sofian EL ATIFI" width="400" height="300">
+  <img src="/sofian.jpg" alt="Portrait of Sofian El Atifi" width="400" height="300">
 </div>
 
-<div class="content" style="text-align: justify;">
-  <p>
-    I am currently in my fourth doctoral year at the Center for Research in Economics and Statistics (<a href="https://crest.science/">CREST</a>). My research investigates the simultaneous contributions of cultural change and shifts in the labour market to the rise in divorce, births outside of marriage, and single motherhood in Western countries. Additionally, I examine the interplay between these cultural and economic factors. Using quantitative methods, I focus on France from the 1970s to the present day. My analysis draws on a diverse array of data sources, including census records, diocesan surveys from the 1950s and 1960s on church attendance, labour force records from BTS-Postes, and immigration data from TeO.
-  </p>
+<div class="content">
+    
+## Welcome to My Academic Website!  
+
+I am a **fourth-year doctoral researcher** at the **Center for Research in Economics and Statistics ([CREST](https://crest.science/user/Sofian-EL-ATIFI/?profiletab=posts))**. My research investigates the **rise in union dissolution**, examining both **cultural and economic drivers** behind this major demographic shift.  
+
+### Ph.D. Dissertation Overview  
+
+My dissertation is structured around three key studies:  
+
+1. **The Two Dimensions of the Retreat from Marriage** – I examine how **manufacturing job losses** have contributed to the rise in divorce, and how **mid-20th-century Catholic religiosity** temporarily delayed the rise in divorce and nonmarital births.  
+
+2. **From Tradition to Individualization** – I analyze union dissolution risks **across birth cohorts**, comparing **immigrants and children of immigrants** from **Muslim and Southern European countries** to the majority population.  
+
+3. **A Stalled Gender Revolution—Except in the Working Class?** – I compare the **evolution of gender gaps in the labour market** between social classes.  
+
 </div>
