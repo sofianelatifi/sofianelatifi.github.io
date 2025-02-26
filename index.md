@@ -30,11 +30,12 @@ title: Sofian El Atifi
 
 <div class="content" style="text-align: justify;">
   <p>
-# Welcome to My Academic Website  
+    
+## Welcome to My Academic Website!  
 
-I am a **fourth-year doctoral researcher** at the **Center for Research in Economics and Statistics ([CREST](https://crest.science/user/Sofian-EL-ATIFI/?profiletab=posts)**. My research investigates the **rise in union dissolution**, examining both **cultural and economic drivers** behind this major demographic shift.  
+I am a **fourth-year doctoral researcher** at the **Center for Research in Economics and Statistics ([CREST](https://crest.science/user/Sofian-EL-ATIFI/?profiletab=posts))**. My research investigates the **rise in union dissolution**, examining both **cultural and economic drivers** behind this major demographic shift.  
 
-## Ph.D. Dissertation Overview  
+### Ph.D. Dissertation Overview  
 
 My dissertation is structured around three key studies:  
 1. **The Two Dimensions of the Retreat from Marriage** – I examine how **manufacturing job losses** have contributed to the rise in divorce, and how **mid-20th-century Catholic religiosity** temporarily delayed the rise in divorce and nonmarital births.  
