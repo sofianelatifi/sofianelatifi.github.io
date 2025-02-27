@@ -1,7 +1,6 @@
 title: Sofian EL ATIFI
 url: "https://sofianelatifi.github.io"
 baseurl: ""
-theme: minima
 markdown: kramdown
 
 kramdown:
