@@ -12,8 +12,6 @@ sass:
 
 # Navigation: Ensure these files exist at the specified paths
 nav:
-  - name: "About"
-    link: "/about"
   - name: "Research"
     link: "/research"
   - name: "Teaching"
