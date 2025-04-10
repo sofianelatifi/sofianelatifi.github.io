@@ -31,16 +31,16 @@ title: Sofian El Atifi
 
 ## Welcome to My Academic Website!  
 
-I am a **fourth-year doctoral researcher** at the **Center for Research in Economics and Statistics ([CREST](https://crest.science/user/Sofian-EL-ATIFI/?profiletab=posts))**. My research investigates the **rise in union dissolution**, examining both **cultural and economic drivers** behind this major demographic shift.  
+I am a **fourth-year doctoral researcher** at the **Centre for Research in Economics and Statistics ([CREST](https://crest.science/user/Sofian-EL-ATIFI/?profiletab=posts))**. My research investigates the **rise in union dissolution** and the emerging **social stratification** of union dissolution risks, examining both **cultural and economic drivers**. My primary theoretical interest lies in clarifying and testing the "interaction effect hypothesis" formulated by Andrew Cherlin (2014). The underlying rationale of this hypothesis is that the emerging social stratification of union dissolution is observable only once **traditional norms** mandating long-term or lifelong commitment in all intimate partnerships are no longer strictly enforced.
 
 ### Ph.D. Dissertation Overview  
 
 My dissertation is structured around three key studies:  
 
-1. **The Two Dimensions of the Retreat from Marriage** – I examine how **manufacturing job losses** have contributed to the rise in divorce, and how **mid-20th-century Catholic religiosity** temporarily delayed the rise in divorce and nonmarital births.  
+1. **The Two Dimensions of the Retreat from Marriage** – Using a census-based panel dataset at the commuting-zone level spanning 1975–2018, I analyse the contribution of **manufacturing decline** to the rise in divorce and single motherhood, and how **Catholic religiosity** temporarily delayed this trend.
 
-2. **From Tradition to Individualization** – I analyze union dissolution risks **across birth cohorts**, comparing **immigrants and children of immigrants** from **Muslim and Southern European countries** to the majority population.  
+2. **The Moderating Role of Traditions** – Drawing on the *Trajectoires et Origines* surveys on immigration, I assess the moderating role of traditions in the emergence of a negative association between **education** and union dissolution by comparing **children of Muslim-origin immigrants** and the **French majority population** across cohorts from 1948 to 1989.
 
-3. **A Stalled Gender Revolution—Except in the Working Class?** – I compare the **evolution of gender gaps in the labour market** between social classes.  
+3. **A Stalled Gender Revolution—Except in the Working Class?** – Using full-population French administrative employer-employee data, I assess the contribution of **minimum wage increases** and **manufacturing decline** to the narrowing of gender pay gaps within the **working class**.
 
 
