@@ -31,7 +31,9 @@ title: Sofian El Atifi
 
 ## Welcome to My Academic Website!  
 
-I am a **fourth-year doctoral researcher** at the **Centre for Research in Economics and Statistics ([CREST](https://crest.science/user/Sofian-EL-ATIFI/?profiletab=posts))**. My research investigates the **rise in union dissolution** and the emerging **social stratification** of union dissolution risks, examining both **cultural and economic drivers**. My primary goal lies in refining and testing the **"interaction effect hypothesis"** formulated by Andrew Cherlin (2014). The underlying rationale of this hypothesis is that the emerging social stratification of union dissolution is observable only once **traditional norms** mandating long-term or lifelong commitment in all intimate partnerships are no longer strictly enforced.
+I am a **fourth-year doctoral researcher** at the **Centre for Research in Economics and Statistics ([CREST](https://crest.science/user/Sofian-EL-ATIFI/?profiletab=posts))**. My research investigates the **rise in union dissolution** and the emerging **social stratification** of union dissolution risks, examining both **cultural and economic drivers**. 
+
+My primary goal lies in refining and testing the **"interaction effect hypothesis"** formulated by Andrew Cherlin (2014). The underlying rationale of this hypothesis is that the emerging social stratification of union dissolution is observable only once **traditional norms** mandating long-term or lifelong commitment in all intimate partnerships are no longer strictly enforced.
 
 ### Ph.D. Dissertation Overview  
 
