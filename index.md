@@ -31,18 +31,12 @@ title: Sofian El Atifi
 
 ## Welcome to My Academic Website!  
 
-I am a **fourth-year doctoral researcher** at the **Centre for Research in Economics and Statistics ([CREST](https://crest.science/user/Sofian-EL-ATIFI/?profiletab=posts))**. My research investigates the **rise in union dissolution** and the emerging **social stratification** of union dissolution risks, examining both **cultural and economic drivers**. 
+I am a **fourth-year doctoral researcher** at the **Centre for Research in Economics and Statistics ([CREST](https://crest.science/user/Sofian-EL-ATIFI/?profiletab=posts))**. My research investigate **economic and cultural** causes of the increasing class inequality in **union dissolution** in Western societies. 
 
-My primary goal lies in refining and testing the **"interaction effect hypothesis"** formulated by Andrew Cherlin (2014). The underlying rationale of this hypothesis is that the emerging social stratification of union dissolution is observable only once **traditional norms** mandating long-term or lifelong commitment in all intimate partnerships are no longer strictly enforced.
+Drawing on William J. Goode’s theory (1962), I posit that this shift results from the interaction of two key variables: **marital strain** and **barriers** to union dissolution. 
 
-### Ph.D. Dissertation Overview  
-
-My dissertation is structured around three key studies:  
-
-1. **The Two Dimensions of the Retreat from Marriage** – Using a census-based panel dataset at the commuting-zone level spanning 1975–2018, I analyse the contribution of **manufacturing decline** to the rise in divorce and single motherhood, and how **Catholic religiosity** temporarily delayed this trend.
-
-2. **The Moderating Role of Traditions** – Drawing on the *Trajectoires et Origines* surveys on immigration, I assess the moderating role of traditions in the emergence of a negative association between **education** and union dissolution by comparing **children of Muslim-origin immigrants** and the **French majority population** across cohorts from 1948 to 1989.
-
-3. **A Stalled Gender Revolution—Except in the Working Class?** – Using full-population French administrative employer-employee data, I assess the contribution of **minimum wage increases** and **manufacturing decline** to the narrowing of gender pay gaps within the **working class**.
-
+**Chapter 1** discusses and extends Goode’s strain-barrier theory by formally incorporating **ideational change**.
+**Chapter 2** The second chapter, a direct empirical test of this updated theory, uses survey data on **children of immigrants** from conservative countries.
+**Chapter 3** Chapter three assesses whether **religiosity** acted as a barrier to nonmarital births and divorce at the onset of their spread, using census and church attendance data.
+**Chapter 4** The last chapter, combining census and administrative employer-employee data, investigates the impact of **manufacturing job losses** on single motherhood and divorce.
 
