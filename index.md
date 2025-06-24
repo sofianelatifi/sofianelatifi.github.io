@@ -37,9 +37,9 @@ Drawing on William J. Goode’s theory (1962), I posit that this shift results f
 
 **Chapter 1** discusses and extends Goode’s strain-barrier theory by formally incorporating **ideational change**.
 
-**Chapter 2** The second chapter, a direct empirical test of this updated theory, uses survey data on **children of immigrants** from conservative countries.
+**Chapter 2** is a direct empirical test of this updated theory, uses survey data on **children of immigrants** from conservative countries.
 
-**Chapter 3** Chapter three assesses whether **religiosity** acted as a barrier to nonmarital births and divorce at the onset of their spread, using census and church attendance data.
+**Chapter 3** assesses whether **religiosity** acted as a barrier to nonmarital births and divorce at the onset of their spread, using census and church attendance data.
 
-**Chapter 4** The last chapter, combining census and administrative employer-employee data, investigates the impact of **manufacturing job losses** on single motherhood and divorce.
+**Chapter 4**, investigates the impact of **manufacturing job losses** on single motherhood and divorce, combining census and administrative employer-employee data, 
 
