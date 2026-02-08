@@ -31,7 +31,7 @@ title: Sofian El Atifi
 
 ## Welcome to My Academic Website!  
 
-I work at the French institute of statistics([Insee](https://www.insee.fr/en/accueil))** as the head of the team working on family studies. Previously, I was a doctoral researcher at Centre for Research in Economics and Statistics ([CREST](https://crest.science/user/Sofian-EL-ATIFI/?profiletab=posts))**. 
+I work at the French institute of statistics ([Insee](https://www.insee.fr/en/accueil))** as the head of the team working on family studies. Previously, I was a doctoral researcher at Centre for Research in Economics and Statistics ([CREST](https://crest.science/user/Sofian-EL-ATIFI/?profiletab=posts))**. 
 
 My doctoral dissertation investigates the causes of the rise in union dissolutions in France and the
 growing class inequality in exposure to these events. In a theoretical first chapter, I
